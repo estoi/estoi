@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estoi)](https://github.com/estoi/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=estoi&show_icons=true&theme=ambient_gradient)](https://github.com/estoi/github-readme-stats)
 
 - 👋 Hi, I’m @estoi
 - 👀 I’m interested in Anime、movie...
