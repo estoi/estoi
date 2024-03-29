@@ -1,6 +1,6 @@
 <div align="center">
    
-   # Hi, this is Yiyang Sun :wave:
+   # Hi, this is Liu Guang :wave:
 
    ## Orientation :dart:
 
