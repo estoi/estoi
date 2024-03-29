@@ -35,7 +35,7 @@
 
    ## Projects :computer:
 
-   [![Electron QQ](https://github-readme-stats.vercel.app/api/pin/?username=estoi&repo=electron-qq)](https://github.com/estoi/electron)
+   [![Electron QQ](https://github-readme-stats.vercel.app/api/pin/?username=estoi&repo=electron-qq)](https://github.com/estoi/electron-qq)
    
    [![Vite CMS](https://github-readme-stats.vercel.app/api/pin/?username=estoi&repo=vite-cms)](https://github.com/estoi/vite-cms)
    
