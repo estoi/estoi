@@ -47,6 +47,9 @@
   <p>
     <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estoi&layout=compact"/>
   </p>
+  <p>
+     <img width="400"  src="https://github-readme-activity-graph.vercel.app/graph?username=estoi&theme=dracula)](https://github.com/esoit" />
+  </p>
 <!---
 estoi/estoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
