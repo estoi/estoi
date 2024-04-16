@@ -30,6 +30,7 @@
    <p>
 
    ![Vite](https://img.shields.io/badge/-Vite-646cff?logo=vite&logoColor=white)
+   ![Uni-app](https://img.shields.io/badge/-uniapp-646cff?logo=uniapp)
 
    </p>
 
